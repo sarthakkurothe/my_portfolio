@@ -1,0 +1,97 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Urban Estate",
+        "content": "Urban Estate is the best place to find your next perfect place to live. This application allows users to browse, create, update, and delete real estate listings.",
+        "imgurl": "/projectSS/urban.png",
+        "githubLink": "https://github.com/sarthakkurothe/mern-estate",
+        "deployedLink": "https://mern-estate-nyfc.onrender.com/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Taskify.",
+        "content": "A React and Redux-powered task management app. Streamline tasks with dynamic boards, drag-and-drop functionality, and real-time collaboration. Simplify project organization for individuals and teams.",
+        "imgurl": "/projectSS/taskify.png",
+        "githubLink": "https://github.com/sarthakkurothe/taskify.",
+        "deployedLink": "https://taskifyy.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "MediChat",
+        "content": "Introducing MediChat, a cutting-edge platform that harnesses the power of artificial intelligence to provide a revolutionary approach to healthcare interactions.",
+        "imgurl": "/projectSS/medichat.png",
+        "githubLink": "https://github.com/sarthakkurothe/medichat-interface",
+        "deployedLink": "https://medichat-2.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Netflix 2.0",
+        "content": "The Netflix clone is a web application developed using React, Redux, and Firebase, offering users a familiar and seamless streaming experience with a vast collection of movies and TV shows.",
+        "imgurl": "/projectSS/netflix.png",
+        "githubLink": "https://github.com/sarthakkurothe/netflix-2.0",
+        "deployedLink": "https://netflix-2-0-five.vercel.app/profile",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/firebase.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      }
+    ]
+  }
+}
