@@ -1,6 +1,16 @@
 {
   "experience": [
     {
+      "clogo": "/companyLogo/promptworld.jpeg",
+      "title": "Software Engineering intern",
+      "company": "at, Prompt World",
+      "point1": "Developed and deployed 5+ microservices with Django, scaling them to handle 100+ prompts, while integrating seamlessly with GCP services.",
+      "point2": "Designed dynamic and responsive React frontends using Material UI, enhancing user interaction and boosting performance by 30%, connected to backend via RESTful APIs.",
+      "point3": "Optimized cloud infrastructure and database queries, reducing response times by 20% and contributing to software architecture improvements, supporting 1,000+ daily active users.",
+      "startDate": "June, 2024",
+      "endDate": "Present"
+    },
+    {
       "clogo": "/companyLogo/flibgib.jpeg",
       "title": "Content Writing intern",
       "company": "at, Flibgib",

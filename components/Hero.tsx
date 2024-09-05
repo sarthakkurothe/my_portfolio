@@ -35,7 +35,7 @@ export default function Hero({}: Props) {
 
       <div className="z-20">
         <h2 className="text-sm text-gray-800 dark:text-gray-400 uppercase tracking-[8px] md:tracking-[15px] pb-2 font-outfit">
-          Full-stack developer
+          Software Development Engineer
         </h2>
         <h1 className="pt-2 text-3xl md:text-4xl lg:text-6xl font-semibold px-16 text-black dark:text-gray-200">
           <span className="mr-3 font-outfit text-black dark:text-gray-200">{text}</span>
