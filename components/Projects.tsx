@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.css";
+import type { Swiper as SwiperType } from 'swiper';
 
 type Props = {
   data: Array<any>;
@@ -87,10 +88,10 @@ export default function Projects({ data }: Props) {
       {/* ✅ FIXED: Removed the overflow-x-scroll wrapper */}
       <div className="relative w-full z-20">
         <Swiper
-          slidesPerView={1}
-          spaceBetween={20}
-          onSwiper={(swiper) => setSwiperInstance(swiper)}
-          onSlideChange={(swiper) => setIndexAt(swiper.activeIndex)}
+        slidesPerView={1}
+        spaceBetween={20}
+        onSwiper={(swiper: SwiperType) => setSwiperInstance(swiper)}
+        onSlideChange={(swiper: SwiperType) => setIndexAt(swiper.activeIndex)}
         >
           {data.map((project, i) => (
             <SwiperSlide key={i}>
