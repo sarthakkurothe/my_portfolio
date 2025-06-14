@@ -17,6 +17,7 @@ export default function ExperienceCard({
   company,
   point1,
   point2,
+  point3,
   startDate,
   endDate,
 }: Props) {
@@ -46,8 +47,8 @@ export default function ExperienceCard({
 
         <ul className="list-disc space-y-4 ml-5 dark:font-light font-normal text-black dark:text-gray-200 text-base mt-4">
           <li>{point1}</li>
-
           <li>{point2}</li>
+          <li>{point3}</li>
         </ul>
       </div>
     </article>

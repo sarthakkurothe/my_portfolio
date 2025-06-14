@@ -1,23 +1,24 @@
 {
   "experience": [
     {
-      "clogo": "/companyLogo/promptworld.jpeg",
-      "title": "Software Engineering intern",
-      "company": "at, Prompt World",
-      "point1": "Developed and deployed 5+ microservices with Django, scaling them to handle 100+ prompts, while integrating seamlessly with GCP services.",
-      "point2": "Designed dynamic and responsive React frontends using Material UI, enhancing user interaction and boosting performance by 30%, connected to backend via RESTful APIs.",
-      "point3": "Optimized cloud infrastructure and database queries, reducing response times by 20% and contributing to software architecture improvements, supporting 1,000+ daily active users.",
-      "startDate": "June, 2024",
-      "endDate": "October, 2024"
+      "clogo": "/companyLogo/intervue_io_logo.jpeg",
+      "title": "SDE Intern",
+      "company": "at, Intervue.io",
+      "point1": "Implemented Multi-Factor Authentication (MFA) for secure user login via email and Google OAuth using Speakeasy for TOTP generation and QR code-based verification, reducing unauthorized access by 40%.",
+      "point2": "Integrated Developer Options providing webhook configuration and secure token-based API access for external organizations, enabling seamless third-party integration and adopted by 5+ partners.",
+      "point3": "Improved and optimized key internal tools, including the Report Generation and External Interviewers pages, by developing 3+ new features, fixing 10+ UI/UX issues, and resolving critical bugs—reducing report generation time by 30%.",
+      "startDate": "February, 2025",
+      "endDate": "June, 2025"
     },
     {
-      "clogo": "/companyLogo/flibgib.jpeg",
-      "title": "Content Writing intern",
-      "company": "at, Flibgib",
-      "point1": "Increased the engagement rate of the viewers on the Official Quora page from 50% to 80%",
-      "point2": "Created content strategy for the blog that attracted 500 new beta subscribers",
-      "startDate": "May, 2022",
-      "endDate": "June, 2022"
+      "clogo": "/companyLogo/nagent_ai.jpeg",
+      "title": "SDE Intern",
+      "company": "at, Nagent AI",
+      "point1": "Designed and implemented Next.js SSR homepage for the beta release, showcasing all AI agents and future roadmap; applied SEO best practices and responsive design to boost early user engagement.",
+      "point2": "Built and deployed Node.js AI content‑creation agents with JWT token‑based access and RESTful endpoints; implemented Redis caching and lazy loading image optimization to cut average route latency by 30%.",
+      "point3": "Explored microservices architecture on Google Cloud Platform (GCP) to understand scalable deployment, service orchestration, and cloud-native best practices.",
+      "startDate": "June, 2024",
+      "endDate": "September, 2024"
     }
   ]
 }

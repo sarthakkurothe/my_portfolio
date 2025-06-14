@@ -9,21 +9,24 @@
         "githubLink": "https://github.com/sarthakkurothe/mern-estate",
         "deployedLink": "https://mern-estate-nyfc.onrender.com/",
         "tech": [
-          {
-            "tech": "/skillsLogos/react.png"
-          },
-          {
-            "tech": "/skillsLogos/tailwind.png"
-          },
-          {
-            "tech": "/skillsLogos/mongodb.png"
-          },
-          {
-            "tech": "/skillsLogos/express.png"
-          },
-          {
-            "tech": "/skillsLogos/node.png"
-          }
+          { "tech": "/skillsLogos/react.png" },
+          { "tech": "/skillsLogos/tailwind.png" },
+          { "tech": "/skillsLogos/mongodb.png" },
+          { "tech": "/skillsLogos/express.png" },
+          { "tech": "/skillsLogos/node.png" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Taskify",
+        "content": "Taskify is a task management web application built with React and styled using Tailwind CSS. It offers a minimalist yet powerful interface that helps users quickly create, edit, and organize tasks. ",
+        "imgurl": "/projectSS/taskify.png",
+        "githubLink": "https://github.com/sarthakkurothe/taskify.",
+        "deployedLink": "https://taskifyy.vercel.app/",
+        "tech": [
+          { "tech": "/skillsLogos/react.png" },
+          { "tech": "/skillsLogos/tailwind.png" },
+          { "tech": "/skillsLogos/shadcn.png" }
         ]
       }
     ]

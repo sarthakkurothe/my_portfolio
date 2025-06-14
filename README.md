@@ -4,4 +4,4 @@ It consists about myself, my experiemces, my projects that I worked upon using b
 
 ### Demo
 
-[Deployed link](https://sarthak-kurothe.vercel.app/)
+[Explore](https://sarthak-kurothe.vercel.app/)

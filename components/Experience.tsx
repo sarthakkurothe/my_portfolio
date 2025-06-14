@@ -27,6 +27,7 @@ export default function Experience({}: Props) {
             company={experience.company}
             point1={experience.point1}
             point2={experience.point2}
+            point3={experience.point3}
             startDate={experience.startDate}
             endDate={experience.endDate}
           />
