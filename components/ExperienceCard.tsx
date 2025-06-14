@@ -7,6 +7,7 @@ type Props = {
   company: string;
   point1?: string;
   point2?: string;
+  point3?: string;
   startDate: string;
   endDate: string;
 };
