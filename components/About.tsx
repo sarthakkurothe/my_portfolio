@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 import React from "react";
 import Image from "next/image";
-import profilePic from "public/extraImages/profile.jpg";
+import profilePic from "public/extraImages/profile1.jpg";
 
 type Props = {};
 
-export default function About({}: Props) {
+export default function About({ }: Props) {
   return (
     <motion.div
       initial={{
@@ -72,10 +72,11 @@ export default function About({}: Props) {
           Welcome to my digital abode! <br />
           <br /> I am a{" "}
           <span className="text-blue-500 font-semibold">
-            full stack developer
+            Software Engineer
           </span>{" "}
           with a passion for building scalable and user-friendly web
-          applications. I love to create elegant solutions to complex problems.
+          applications. Currently, working in the PayZapp team on the HDFC Bank PayZapp application,
+          specifically on the prepaid wallet (PayZapp Account).
           <br />
           <br />To see my work or projects feel free to check out my{" "}
           <span className="text-blue-500 font-semibold">
@@ -111,7 +112,7 @@ export default function About({}: Props) {
             </a>
           </span>
           , a collection of many projects showcasing my skills.
-          <br /> <br /> Alongside my tech endeavors, I am an avid reader 
+          <br /> <br /> Alongside my tech endeavors, I am an avid reader
           and enjoy delving into subjects such as astronomy while enjoying a{" "}
           <span className="text-blue-500 font-semibold">
             fresh cup of coffee!

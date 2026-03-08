@@ -1,24 +1,34 @@
 {
   "experience": [
     {
+      "clogo": "/companyLogo/zeta.jpg",
+      "title": "Software Engineer",
+      "company": "at, Zeta",
+      "point1": "Enabled Redis authentication and SSL/TLS encryption across 16 backend microservices to support secure and RBI-compliant connectivity for the PayZapp prepaid wallet platform.",
+      "point2": "Integrated MetisDataTransfer CRDs to enable PostgreSQL to Redshift streaming data replication for OLTP to OLAP analytics workloads.",
+      "point3": "Resolved production incidents and on-call issues for the PayZapp prepaid wallet platform, using Grafana and Kibana to troubleshoot issues related to prepaid account workflows and user onboarding via bank CIF records.",
+      "startDate": "August, 2025",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/allen.jpg",
+      "title": "SDE Intern",
+      "company": "at, Allen Digital",
+      "point1": "Built and optimized Next.js frontend interfaces to replace third-party tools like CleverTap, enabling in-house management of user cohorts and notification campaigns.",
+      "point2": "Developed internal dashboards for campaign, cohort, and conversion analytics, reducing dependency on external tools by 50%.",
+      "point3": "Collaborated with backend teams to integrate real-time APIs for alerts and notifications, improving campaign execution and reducing response time by 30%.",
+      "startDate": "June, 2025",
+      "endDate": "August, 2025"
+    },
+    {
       "clogo": "/companyLogo/intervue_io_logo.jpeg",
       "title": "SDE Intern",
       "company": "at, Intervue.io",
-      "point1": "Implemented Multi-Factor Authentication (MFA) for secure user login via email and Google OAuth using Speakeasy for TOTP generation and QR code-based verification, reducing unauthorized access by 40%.",
-      "point2": "Integrated Developer Options providing webhook configuration and secure token-based API access for external organizations, enabling seamless third-party integration and adopted by 5+ partners.",
-      "point3": "Improved and optimized key internal tools, including the Report Generation and External Interviewers pages, by developing 3+ new features, fixing 10+ UI/UX issues, and resolving critical bugs—reducing report generation time by 30%.",
+      "point1": "Implemented Multi-Factor Authentication (MFA) using email and Google OAuth with TOTP (Speakeasy + QR-based verification), reducing unauthorized access by 40%.",
+      "point2": "Built Developer Options with webhook configuration and secure token-based API access, enabling third-party integrations adopted by 5+ external partners.",
+      "point3": "Enhanced core internal tools (Report Generation, External Interviewers) by shipping 3+ features, fixing 10+ UI/UX issues, and resolving critical bugs, cutting report generation time by 30%.",
       "startDate": "February, 2025",
       "endDate": "June, 2025"
-    },
-    {
-      "clogo": "/companyLogo/nagent_ai.jpeg",
-      "title": "SDE Intern",
-      "company": "at, Nagent AI",
-      "point1": "Designed and implemented Next.js SSR homepage for the beta release, showcasing all AI agents and future roadmap; applied SEO best practices and responsive design to boost early user engagement.",
-      "point2": "Built and deployed Node.js AI content‑creation agents with JWT token‑based access and RESTful endpoints; implemented Redis caching and lazy loading image optimization to cut average route latency by 30%.",
-      "point3": "Explored microservices architecture on Google Cloud Platform (GCP) to understand scalable deployment, service orchestration, and cloud-native best practices.",
-      "startDate": "June, 2024",
-      "endDate": "September, 2024"
     }
   ]
 }
